@@ -1,6 +1,6 @@
 {
   "name": "com.snorlax.firebase-auth",
-  "version": "8.6.0",
+  "version": "8.6.1",
   "displayName": "Firebase Authentication",
   "keywords": [
     "Google",
@@ -18,7 +18,7 @@
   "description": "Easily sign-in and authenticate players.\n\nSign-in players using any identity provider with Firebase Authentication. It supports email and password, phone authentication, Facebook, Google, Twitter, and more. Out-of-the-box, you get a secure, end-to-end identity solution.",
   "unity": "2017.1",
   "dependencies": {
-    "com.snorlax.firebase-app": "8.6.0"
+    "com.snorlax.firebase-app": "8.6.1"
   },
     "repository": {
     "type": "git",
