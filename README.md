@@ -64,4 +64,12 @@ Add
 "com.google.external-dependency-manager": "https://github.com/Gamee-Studio/external-dependency-manager.git?path=Assets/_Root#1.2.167",
 ```
 
+-for version 8.5.0
+```c#
+"com.snorlax.firebase-auth": "https://github.com/snorluxe/firebase-auth.git?path=Assets/_Root#8.5.0",
+"com.snorlax.firebase-app": "https://github.com/snorluxe/firebase-app.git?path=Assets/_Root#8.5.0",
+"com.snorlax.external-dependency-manager": "https://github.com/snorluxe/external-dependency-manager.git?path=Assets/_Root#1.2.167",
+```
+
+
 To `Packages/manifest.json`
